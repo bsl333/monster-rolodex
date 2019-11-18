@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
 }
@@ -19,4 +20,9 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
 }
